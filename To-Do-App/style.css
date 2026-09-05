@@ -1,0 +1,12 @@
+.card{
+    border-radius:20px;
+}
+
+.completed{
+    text-decoration:line-through;
+    color:gray;
+}
+
+button{
+    margin-left:5px;
+}
