@@ -1,0 +1,12 @@
+
+.card{
+    border-radius:20px;
+}
+button{
+    font-size:20px;
+    height:60px;
+}
+#display{
+    font-size:24px;
+    text-align:right;
+}
